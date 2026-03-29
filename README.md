@@ -3,7 +3,7 @@ A directive for AI model to follow to create a full fledge Sillytavern compatibl
 
 ---
 
-I understand making a good character is hard especially if it is your first time. You probably read alot of entries of many people made on how to make a good character but still feels inadequate/lost. The solution? Ask AI to help you but that is also not as straight forward because AI need a proper instruction or *Directive* to make it able to work properly. This is where this directive goes to play and I will put this up front, This is not like a new thing, there are other people have made it too. I even borrow alot of component from [cha1latte](https://github.com/cha1latte/sillytavern-character-generator), do visit it. So, what is different of mine and the other one? 
+I understand making a good character is hard especially if it is your first time. You probably read alot of entries of many people made on how to make a good character but still feels inadequate/lost. The solution? Ask AI to help you but that is also not as straightforward because AI need a proper instructions or *Directives* to make it able to work properly. This is where this directive goes to play and I will put this up front, This is not like a new thing, there are other peoples have made it too. I even borrow alot of component from [cha1latte](https://github.com/cha1latte/sillytavern-character-generator), do visit it. So, what is different of mine and the other one? 
 
 | Feature | sillytavern-character-generator | SillyChar |
 |---------|----------------|-----------------|
