@@ -1,4 +1,4 @@
-# SillyChar-Creator V2
+# SillyChar-Creator V3
 
 ![ojou5r3fnosg1](https://github.com/user-attachments/assets/34484815-c851-46c1-a0d6-8015d6ac7c8d)
 
@@ -13,6 +13,8 @@ A directive that turns any AI model into a character, world, and lorebook creato
 Making a good card is hard. Making a *world* is harder. You've read the guides, stared at blank fields, and it still feels overwhelming. **SillyChar-Creator V2** fixes that. Paste it into ChatGPT, Claude, Gemini, or any capable AI, describe what you want, and get a complete build back.
 
 No configuration. No setup. Just paste and describe.
+
+## in only 6K Token!
 
 ### What You Get
 
